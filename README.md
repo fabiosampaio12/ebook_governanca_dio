@@ -20,7 +20,7 @@
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. 
 
-<a href="https://github.com/fabiosampaio12/ebook_governanca_dio " title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/fabiosampaio12/ebook_governanca_dio/blob/main/ebook%20governan%C3%A7a%20de%20dados.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
